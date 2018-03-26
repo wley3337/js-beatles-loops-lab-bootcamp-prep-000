@@ -9,14 +9,14 @@ function theBeatlesPlay(musician, instrument){
 
   //2) Beatles Loops johnLennonFacts returns an array of strings with exclamation points:
 
-// //function johnLennonFacts(facts){
-// //var i = 0;
-//   while (i < facts.length){
-//     facts[i]= facts[i] + '!!!';
-//     i++;
-//   }
-//   return facts;
-// }
+function johnLennonFacts(facts){
+var i = 0;
+  while (i < facts.length){
+    facts[i]= facts[i] + '!!!';
+    i++;
+  }
+  return facts;
+}
     
     
   //3) Beatles Loops iLoveTheBeatles returns an array of 'I love the Beatles!' 8 times when passed the parameter 7 :
